@@ -16,16 +16,6 @@ body {
   width: 100%;
 }
 
-.varieties.gallery {
-  margin: 5px;
-  border: 2px solid lightgreen;
-  float: right;
-  width: 150px;
-}
-
-.varieties.gallery:hover{
-  border: 2px solid
-}
 
 footer, h3 {
   text-align: center;
