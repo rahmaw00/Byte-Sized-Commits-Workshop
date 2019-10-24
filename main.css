@@ -26,3 +26,9 @@ body {
 .varieties.gallery:hover{
   border: 2px solid
 }
+
+footer, h3 {
+  text-align: center;
+  background-color: lightgreen;
+  color: #ea5169;
+}
