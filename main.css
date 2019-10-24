@@ -1,5 +1,28 @@
-.watermelon {
+body {
+  background-color: lightpink;
+  }
+
+  p, li {
+    color: palegreen;
+  }
+
+#watermelon {
   width: 100%;
   background-color: #ea5169;
-  /* color: black; */
+}
+
+.palegreen {
+  background-color: #ea5169;
+  width: 100%;
+}
+
+.varieties.gallery {
+  margin: 5px;
+  border: 2px solid lightgreen;
+  float: right;
+  width: 150px;
+}
+
+.varieties.gallery:hover{
+  border: 2px solid
 }
